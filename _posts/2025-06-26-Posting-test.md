@@ -25,9 +25,6 @@ toc_sticky: true
 &nbsp; 이거뭐냐고
 이거 뭔데  </br>
 아하 그렇군 지금부터 엔터 여러 번 간다.
-&nbsp;
-&nbsp;
-&nbsp;
 됐냐? 안 되잖아 젠장
 
 </br>
@@ -57,6 +54,9 @@ wow~
 안되잖아 </br> 이러면 되나?
 
 ![이미지설명되나?](../assets/images/2025-06-26-Posting-test/test.png)
+
+![이건될걸?](/assets/images/2025-06-26-Posting-test/test.png)
+
 
 이미지 첨부 짱 귀찮아요~  
 이러면 엔터 된다?  
